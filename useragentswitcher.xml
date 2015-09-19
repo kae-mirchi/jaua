@@ -8,7 +8,7 @@
         </folder>
         <folder description="Windows">
             <folder description="Firefox">
-                Mozilla/5.0 (Windows NT 6.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0
+                <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
                 </folder>
         </folder>    
     </folder>

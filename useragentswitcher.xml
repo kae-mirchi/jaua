@@ -1,6 +1,13 @@
 <useragentswitcher/>
 <folder description="Linux">
-    <folder description="Firefox">
+    <folder description="x32">
+        <folder description="Firefox">
+         </folder>      
+    <folder description="x64">
+        
+        <folder description="Firefox">
         <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux x86_64" vendor="" vendorsub=""/>
+        </folder>
+    </folder>
     </folder>
 </folder>

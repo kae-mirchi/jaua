@@ -6,6 +6,12 @@
             <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux i686" vendor="" vendorsub="" />
             <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; U; Linux i686; rv:40.0) Gecko/20121223 Ubuntu/15.04 (trusty) Firefox/40.0" appcodename="" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
          </folder>
+         <folder description="Chrome 41">
+            <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" appcodename="Mozilla" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
+        <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" appcodename="Mozilla" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
+        <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; U; Linux i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36" appcodename="Mozilla" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
+        
+         </folder>
       </folder>
       <folder description="Windows">
          <folder description="Firefox 40">
@@ -20,6 +26,9 @@
             <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; Win32; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
             <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; Win32; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
       </folder>
+      <folder description="Chrome 41">
+            <useragent description="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+         </folder>
    </folder>
    <folder description="x64">
       <folder description="Linux">

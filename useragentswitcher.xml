@@ -45,7 +45,7 @@
                     <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
                 </folder>
                 <folder description="Internet Explorer 11">
-                    <useragent description="Windows XP" useragent"Mozilla/5.0 (Windows NT 5.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
                     <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
                     <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
                     <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; AS; rv:11.0) like Gecko" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />

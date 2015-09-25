@@ -1,36 +1,36 @@
 <useragentswitcher>
-    <folder description="x32">
-        <folder description="Linux">
-            <folder description="Firefox">
-                <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="" appversion="" platform="Linux i686" vendor="" vendorsub=""/>
-                <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux i686" vendor="" vendorsub=""/>
-                <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; U; Linux i686; rv:40.0) Gecko/20121223 Ubuntu/15.04 (trusty) Firefox/40.0" appcodename="" appname="" appversion="" platform="Linux i686" vendor="" vendorsub=""/>
-            </folder>
-        </folder>
-        <folder description="Windows">
-            <folder description="Firefox">
-                <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                </folder>
-        </folder>    
-    </folder>
-    <folder description="x64">
-        <folder description="Linux">
-            <folder description="Firefox">
-                <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="Linux x86_64" vendor="" vendorsub=""/>
-                <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux x86_64" vendor="" vendorsub=""/>
-                <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:40.0) Gecko/20121223 Ubuntu/15.04 (trusty) Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="Linux x86_64" vendor="" vendorsub=""/>
-            </folder>
-        </folder>
-        <folder description="Windows">
-            <folder description="Firefox">
-                <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub=""/>
-                </folder>
-        </folder>    
-    </folder>
+   <folder description="x32">
+      <folder description="Linux">
+         <folder description="Firefox">
+            <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
+            <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux i686; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux i686" vendor="" vendorsub="" />
+            <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; U; Linux i686; rv:40.0) Gecko/20121223 Ubuntu/15.04 (trusty) Firefox/40.0" appcodename="" appname="" appversion="" platform="Linux i686" vendor="" vendorsub="" />
+         </folder>
+      </folder>
+      <folder description="Windows">
+         <folder description="Firefox">
+            <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; Win32; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+         </folder>
+      </folder>
+   </folder>
+   <folder description="x64">
+      <folder description="Linux">
+         <folder description="Firefox">
+            <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="Linux x86_64" vendor="" vendorsub="" />
+            <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="5.0 (X11)" platform="Linux x86_64" vendor="" vendorsub="" />
+            <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:40.0) Gecko/20121223 Ubuntu/15.04 (trusty) Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="Linux x86_64" vendor="" vendorsub="" />
+         </folder>
+      </folder>
+      <folder description="Windows">
+         <folder description="Firefox">
+            <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+            <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="Mozilla" appname="Netscape" appversion="" platform="" vendor="" vendorsub="" />
+         </folder>
+      </folder>
+   </folder>
 </useragentswitcher>

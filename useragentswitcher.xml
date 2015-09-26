@@ -198,4 +198,23 @@
             </folder>
         </folder>
     </folder>
+    <folder description="Android">
+        <folder description="Firefox">
+            <folder description="Firefox 40">
+                <useragent description="Android KitKat" useragent="Mozilla/5.0 (Android 4.4; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                <useragent description="Android Lollipop" useragent="Mozilla/5.0 (Android 5.0; Mobile; rv:40.0) Gecko/40.0 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+            </folder>
+        </folder>
+        <folder description="Chrome">
+            <folder description="Chrome 45">
+                <useragent description="Android KitKat" useragent="Mozilla/5.0 (Linux; Android 4.4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                <useragent description="Android Lollipop" useragent="Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+            </folder>
+        </folder>
+        <folder description="Opera">
+            <folder description="Opera 12">
+                <useragent description="Android" useragent="Opera/9.80 (Android; Opera Mini/11.0.1912/37.6584) Presto/2.12.423 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+            </folder>
+        </folder>
+    </folder>
 </useragentswitcher>

@@ -1,6 +1,6 @@
 <useragentswitcher>
-    <folder description="x32">
-        <folder description="Linux">
+    <folder description="Linux">
+        <folder description="x32">
             <folder description="Firefox">
                 <folder description="Firefox 40">
                     <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux i386; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
@@ -27,7 +27,36 @@
                 </folder>
             </folder>
         </folder>
-        <folder description="Windows">
+        <folder description="x64">
+            <folder description="Firefox">
+                <folder description="Firefox 40">
+                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+            <folder description="Chrome">
+                <folder description="Chrome 45">
+                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+                <folder description="Chrome 14">
+                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+            <folder description="Opera">
+                <folder description="Opera 12">
+                    <useragent description="Linux" useragent="Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Ubuntu" useragent="Opera/9.80 (X11; Linux x86_64; Ubuntu;) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder description="Windows">
+        <folder description="x32">
             <folder description="Firefox">
                 <folder description="Firefox 40">
                     <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; Win32; rv:40.0) Gecko/20100101 Firefox/40" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
@@ -63,36 +92,7 @@
                 </folder>
             </folder>
         </folder>
-    </folder>
-    <folder description="x64">
-        <folder description="Linux">
-            <folder description="Firefox">
-                <folder description="Firefox 40">
-                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x68_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x68_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x68_64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                </folder>
-            </folder>
-            <folder description="Chrome">
-                <folder description="Chrome 45">
-                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                </folder>
-                <folder description="Chrome 14">
-                    <useragent description="Linux" useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Ubuntu" useragent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Fedora" useragent="Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/14 Safari/537.36" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                </folder>
-            </folder>
-            <folder description="Opera">
-                <folder description="Opera 12">
-                    <useragent description="Linux" useragent="Opera/9.80 (X11; Linux x86_64) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                    <useragent description="Ubuntu" useragent="Opera/9.80 (X11; Linux x86_64; Ubuntu;) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
-                </folder>
-            </folder>
-        </folder>
-        <folder description="Windows">
+        <folder description="x64">
             <folder description="Firefox">
                 <folder description="Firefox 40">
                     <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
@@ -129,7 +129,6 @@
             </folder>
         </folder>
     </folder>
-    <!-- test -->
     <folder description="Mac OS">
         <folder description="Firefox">
             <folder description="Firefox 40">

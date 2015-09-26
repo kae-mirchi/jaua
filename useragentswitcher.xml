@@ -157,4 +157,45 @@
             </folder>
         </folder>
     </folder>
+    <folder description="OS/2">
+        <folder description="Firefox">
+            <folder description="Firefox 40">
+                <useragent description="OS/2" useragent="Mozilla/5.0 (OS/2; Warp 4.5; rv:40.0) Gecko/20050922 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+            </folder>
+        </folder>
+    </folder>
+    <folder description="BSD">
+        <folder description="x32">
+            <folder description="Firefox">
+                <folder description="Firefox 40">
+                    <useragent description="FreeBSD" useragent="Mozilla/5.0 (X11; FreeBSD i386; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="NetBSD" useragent="Mozilla/5.0 (X11; NetBSD i386; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="OpenBSD" useragent="Mozilla/5.0 (X11; OpenBSD i386; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+            <folder description="Opera">
+                <folder description="Opera 12">
+                    <useragent description="FreeBSD" useragent="Opera/9.80 (X11; FreeBSD i386) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="NetBSD" useragent="Opera/9.80 (X11; NetBSD i386) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="OpenBSD" useragent="Opera/9.80 (X11; OpenBSD i386) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+        </folder>
+        <folder description="x64">
+            <folder description="Firefox">
+                <folder description="Firefox 40">
+                    <useragent description="FreeBSD" useragent="Mozilla/5.0 (X11; FreeBSD amd64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="NetBSD" useragent="Mozilla/5.0 (X11; NetBSD amd64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="OpenBSD" useragent="Mozilla/5.0 (X11; OpenBSD amd64; rv:40.0) Gecko/20100101 Firefox/40.0" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+            <folder description="Opera">
+                <folder description="Opera 12">
+                    <useragent description="FreeBSD" useragent="Opera/9.80 (X11; FreeBSD amd64) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="NetBSD" useragent="Opera/9.80 (X11; NetBSD amd64) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="OpenBSD" useragent="Opera/9.80 (X11; OpenBSD amd64) Presto/2.12.388 Version/12.16" appcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                </folder>
+            </folder>
+        </folder>
+    </folder>
 </useragentswitcher>

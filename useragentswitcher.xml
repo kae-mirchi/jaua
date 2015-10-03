@@ -91,6 +91,15 @@
                     <!--<useragent description="Windows 10" useragent="Opera/9.80 (Windows NT 6.4; Win32) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
                 </folder>
             </folder>
+            <folder description="Safari">
+                <folder description="Safari 5.1.7">
+                    <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                    <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                    <useragent description="Windows 10" useragent="Mozilla/5.0 (Windows NT 6.4; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                </folder>
+            </folder>
         </folder>
         <folder description="x64">
             <folder description="Firefox">
@@ -125,6 +134,15 @@
                     <!--<useragent description="Windows 8" useragent="Opera/9.80 (Windows NT 6.2; WOW64) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
                     <!--<useragent description="Windows 8.1" useragent="Opera/9.80 (Windows NT 6.3; WOW64) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
                     <!--<useragent description="Windows 10" useragent="Opera/9.80 (Windows NT 6.4; WOW64) Presto/2.12.388 Version/12.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                </folder>
+            </folder>
+                        <folder description="Safari">
+                <folder description="Safari 5.1.7">
+                    <useragent description="Windows XP" useragent="Mozilla/5.0 (Windows NT 5.1; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Windows 7" useragent="Mozilla/5.0 (Windows NT 6.1; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />
+                    <useragent description="Windows 8" useragent="Mozilla/5.0 (Windows NT 6.2; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                    <useragent description="Windows 8.1" useragent="Mozilla/5.0 (Windows NT 6.3; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
+                    <useragent description="Windows 10" useragent="Mozilla/5.0 (Windows NT 6.4; Win32) AppleWebKit/534.54.16 (KHTML, like Gecko) Version/5.1.7 Safari/534.54.16" ppcodename="" appname="" appversion="" platform="" vendor="" vendorsub="" />-->
                 </folder>
             </folder>
         </folder>
